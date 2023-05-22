@@ -10,7 +10,7 @@ text-align: center;
 
 section{
 
-    background: white;
+    background: rgba(255, 255, 255, 0.842);
     border-radius: 10px;
     padding: 15px;
     width: 500px;
